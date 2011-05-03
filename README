@@ -1,6 +1,17 @@
 
 Gnome Shell Extension to remove the Accessibility icon.
 
+Installation:
+
+$ mkdir -p ~/.local/share/gnome-shell/extensions
+$ cd ~/.local/share/gnome-shell/extensions
+$ git clone https://ecoleman@github.com/ecoleman/noa11y-colemando.com.git noa11y@colemando.com
+
+Press ALT+F2, type 'r' and hit enter.
+
+Note, the name of the extension directory is important.  gnome-shell
+will not load the extension otherwise.
+
 Credit goes to fpmurphy
   http://forums.fedoraforum.org/showpost.php?p=1460585&postcount=17
 
