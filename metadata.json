@@ -1,0 +1,6 @@
+{
+   "shell-version": ["3.0"],
+   "uuid": "noa11y@colemando.com",
+   "name": "noa11y",
+   "description": "Remove a11y icon/menu from panel"
+}
