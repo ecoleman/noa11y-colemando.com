@@ -5,7 +5,7 @@ Installation:
 
 $ mkdir -p ~/.local/share/gnome-shell/extensions
 $ cd ~/.local/share/gnome-shell/extensions
-$ git clone https://ecoleman@github.com/ecoleman/noa11y-colemando.com.git noa11y@colemando.com
+$ git clone https://github.com/ecoleman/noa11y-colemando.com.git
 
 Press ALT+F2, type 'r' and hit enter.
 
